@@ -21,16 +21,17 @@ p{color:grey}
 
 .nav-link{font-size:1.2rem;}
 
-.row{padding-left:16px;padding-top: 4.5rem;}
+.row{padding-left:16px;padding-top: 2rem;}
 
 .sizz{width:110%;}
-@media (max-width:1020px){
-  .sizz{position:static;transform:rotate(0);}
-  #title{text-align: center;}
+
+
+  #campaign{text-align:center;}
+  #footer{text-align:center;}
   .q{margin:2%}
 }
 
-#campaign{ background-color: #fff;position:relative;padding: 40px 120px 40px 120px;}
+#campaign{ background-color: #fff;position:relative;padding: 40px 0 40px 0;text-align: center;}
 .hh{text-align: center;}
 .t{color:#ef8172;margin-bottom:1rem;}
 .t:hover{color:#e2979c;}
@@ -47,22 +48,29 @@ p{color:grey}
 .pot{color:#000;text-align:center;padding-top:40px;}
 .zej{width:20%;text-align: left;}
 .aw{width:300px}
+.was{size:80%}
+
+
+
+
+
 .ll{width:15%;margin:20px 20px 50px;}
 .carousel-item{padding: 7% 15%}
 
 .art{padding-top: 40px;}
 
 .hh{padding-top:30px;padding-bottom:30px;margin-bottom:10px}
-.q{padding:3% 2%}
+.q{padding:3% 2}
 
-.rerre{margin:5%}
-.lux{margin-top: 0px;}
-
-
-.wq{margin:1%}
+.sss{padding-top:40px}
+.wmn{width:492px;}
 .poi{margin-bottom:40px;}
-.weq{color:black;text-align:center;}
+.tre{width:492px;}
+.rerre{padding:0px;}
+.wq{margin:2%}
 
+.weq{color:black;text-align:center;}
+.dixi{margin-left: 6%}
 
 #helpline{background-color:#e2979c;text-align: center;padding:10% 15%}
 .zz{margin:0px 9px 0px;}
@@ -72,3 +80,10 @@ p{color:grey}
 #footer{background-color:#fff;padding:7% 15% ;text-align: center;padding-bottom:30px;padding-top:60px; }
 .reddy{margin:2% 2% 5% 2%;}
 .con{margin-bottom:2%}
+@media (max-width:1020px){
+  .sizz{position:static;}
+  #title{text-align: center;}
+  #testimonials{text-align:center;width:auto;}
+  .oop{padding-right:20%}
+  .mar{margin-right:5%;padding-right:100px;}
+.tre{width:300px;margin-left: 10%}.wmn{width:300px;}}
